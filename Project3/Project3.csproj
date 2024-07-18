@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Project3.OutputParameterDemo</StartupObject>
+    <StartupObject>Project3.paramsArray</StartupObject>
   </PropertyGroup>
 
 </Project>
